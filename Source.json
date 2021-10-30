@@ -41,6 +41,7 @@
          ]
       },
       {
+         "beta":"true",
          "name":"NineAnimator Nightly",
          "bundleIdentifier":"com.marcuszhou.NineAnimator",
          "developerName":"Marcus Zhou",
