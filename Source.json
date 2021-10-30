@@ -41,7 +41,7 @@
          ]
       },
       {
-         "beta":"true",
+         "beta":true,
          "bundleIdentifier":"com.marcuszhou.NineAnimator",
          "developerName":"Marcus Zhou",
          "version":"1.2.7 (108763442)",
